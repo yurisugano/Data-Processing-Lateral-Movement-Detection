@@ -8,5 +8,6 @@ edition = "2021"
 [dependencies]
 bzip2 = "0.4.4"
 serde_json = "1.0.104"
+rayon = "1.7"
 
 
