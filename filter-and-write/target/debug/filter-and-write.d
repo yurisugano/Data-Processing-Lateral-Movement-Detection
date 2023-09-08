@@ -1,1 +1,0 @@
-/Users/yurisugano/Library/CloudStorage/Box-Box/Github/LANLData/LateralMovementDetection/filter-and-write/target/debug/filter-and-write: /Users/yurisugano/Library/CloudStorage/Box-Box/Github/LANLData/LateralMovementDetection/filter-and-write/src/main.rs
